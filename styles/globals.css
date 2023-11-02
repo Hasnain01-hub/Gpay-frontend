@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url(./stylesheet/style.css);
+@import url(./stylesheet/all.min.css);
+@import url(./stylesheet/animate.css);
+@import url(./stylesheet/animated-text.css);
+@import url(./stylesheet/bootstrap.min.css);
+@import url(./stylesheet/flaticon.css);
+@import url(./stylesheet/meanmenu.min.css);
+@import url(./stylesheet/owl.carousel.min.css);
+@import url(./stylesheet/owl.theme.default.min.css);
+@import url(./stylesheet/responsive.css);
+@import url(./stylesheet/theme-default.css);
